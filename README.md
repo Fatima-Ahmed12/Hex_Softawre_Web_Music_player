@@ -16,8 +16,8 @@ I make a Web Music Player Website using html, css and vanilla javascript.In this
 <li>  ✔Playback Controls:
   <ul type=disc>
 <li>  Play/Pause button.</li>
-<li>>Next button (skip to next song).</li>
-<li>Previous button (skip to previous song).</li>
+<li>  Next button (skip to next song).</li>
+<li>  Previous button (skip to previous song).</li>
 </ul>
 </li>
 </ul>
