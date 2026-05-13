@@ -13,14 +13,14 @@ I make a Web Music Player Website using html, css and vanilla javascript.In this
 <ul type=disc>
 <li>  ✔ Playlist Display( Display a list of songs with their titles, artists, and durations).</li>
 <li>  ✔Song Playback( Play the selected song and display its progress).</li> 
-<li
+<li>  ✔Playback Controls:
   <ul type=disc>
 <li>  Play/Pause button.</li>
- <li>>Next button (skip to next song).</li>
+<li>>Next button (skip to next song).</li>
 <li>Previous button (skip to previous song).</li>
 </ul>
-  
-  >   ✔Playback Controls:</li>  </ul>
+</li>
+</ul>
 
 
 
